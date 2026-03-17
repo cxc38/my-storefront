@@ -1,5 +1,6 @@
 {
   "mappings": [
+    "/content/my-storefront/products/youth-tee/:/youth-tee/",
     "/content/my-storefront/:/",
     "/content/my-storefront/configuration:/.helix/config.json",
     "/content/my-storefront/headers:/.helix/headers.json",
