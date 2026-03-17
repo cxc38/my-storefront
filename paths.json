@@ -7,6 +7,6 @@
     "/content/my-storefront.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/my-storefront/"
+    "/content/my-storefront/", "/content/dam/"
   ]
 }
