@@ -1,3 +1,14 @@
+# Create your content:
+https://da.live/start?org=cxc38&site=my-storefront
+
+# Check your site:
+## Preview: https://main--my-storefront--cxc38.aem.page/
+
+## Live: https://main--my-storefront--cxc38.aem.live/
+
+# Add users:
+Use the admin tool: https://labs.aem.live/tools/user-admin/index.html
+
 # Edge Delivery Services with AEM Authoring Boilerplate for Commerce , Version 0.6
 
 This project boilerplate is for AEM Authoring with Edge Delivery Services (aka Crosswalk) projects that integrate with Adobe Commerce.
