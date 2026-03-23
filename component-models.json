@@ -802,13 +802,6 @@
     "id": "gallery",
     "fields": [
       {
-        "component": "richtext",
-        "name": "textfield",
-        "value": "",
-        "label": "Text Field",
-        "valueType": "string"
-      },
-      {
         "component": "text",
         "valueType": "string",
         "name": "author",
@@ -817,5 +810,4 @@
       }
     ]
   }
-
 ]
