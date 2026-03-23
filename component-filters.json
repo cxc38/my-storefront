@@ -390,7 +390,8 @@
   {
     "id": "cards",
     "components": [
-      "card"
+      "card",
+      "container"
     ]
   },
   {
