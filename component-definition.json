@@ -59,8 +59,8 @@
       ]
     },
     {
-      "title": "General Components",
-      "id": "general",
+      "title": "General Contain Components",
+      "id": "containers",
       "components": [
         {
           "title": "Container",

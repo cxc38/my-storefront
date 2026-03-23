@@ -23,9 +23,7 @@
       "columns",
       "fragment",
       "product-teaser",
-      "product-recommendations",
-      "containers",
-      "container"
+      "product-recommendations"
     ]
   },
   {
@@ -390,8 +388,7 @@
   {
     "id": "cards",
     "components": [
-      "card",
-      "container"
+      "card"
     ]
   },
   {
@@ -406,8 +403,7 @@
       "text",
       "image",
       "button",
-      "title",
-      "container"
+      "title"
     ]
   },
   {
