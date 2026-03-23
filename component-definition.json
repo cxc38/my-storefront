@@ -1,6 +1,11 @@
 {
   "groups": [
     {
+      "title": "Gallery",
+      "id": "gallery",
+      "model": "gallery"
+    },
+    {
       "title": "Default Content",
       "id": "default",
       "components": [

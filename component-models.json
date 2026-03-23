@@ -1,26 +1,5 @@
 [
   {
-    "id": "multifields",
-    "name": "multifields",
-    "label": "Multifields",
-    "multi": true,
-    "fields": [
-      {
-        "component": "container",
-        "name": "fieldcontainer",
-        "multi": false,
-        "fields": [
-          {
-            "component": "text",
-            "name": "morelinksTitle",
-            "label": "Titre du lien",
-            "valueType": "string"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "image",
     "fields": [
       {
@@ -172,25 +151,6 @@
   },
   {
     "id": "card",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Image",
-        "multi": false
-      },
-      {
-        "component": "richtext",
-        "name": "text",
-        "value": "",
-        "label": "Text",
-        "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "container",
     "fields": [
       {
         "component": "reference",
