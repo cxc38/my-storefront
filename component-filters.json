@@ -23,7 +23,9 @@
       "columns",
       "fragment",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "containers",
+      "container"
     ]
   },
   {
