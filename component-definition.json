@@ -63,17 +63,15 @@
       "id": "containers",
       "components": [
         {
-          "title": "Container",
-          "id": "container",
-          "model": "container",
-          "filter": "container-filter",
+          "title": "Containers",
+          "id": "containers",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
-                  "name": "container",
-                  "model": "container"
+                  "name": "containers",
+                  "model": "containers"
                 }
               }
             }
