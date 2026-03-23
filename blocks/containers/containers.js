@@ -1,3 +1,3 @@
 export default function decorate(block) {
-  block.classList.add('container-block');
+  block.classList.add('containers-block');
 }

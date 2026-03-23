@@ -1,13 +1,14 @@
 [
   {
-    "id": "containers",
-    "name": "Containers",
-    "label": "Containers",
+    "id": "multifields",
+    "name": "multifields",
+    "label": "Multifields",
     "multi": true,
     "fields": [
       {
         "component": "container",
-        "name": "container",
+        "name": "fieldcontainer",
+        "multi": false,
         "fields": [
           {
             "component": "text",
