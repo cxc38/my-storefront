@@ -26,12 +26,6 @@
           "name": "heading",
           "label": "Heading",
           "valueType": "string"
-        },
-        {
-          "component": "richtext",
-          "name": "body",
-          "label": "Intro",
-          "valueType": "string"
         }
       ]
     }
