@@ -1,5 +1,25 @@
 [
   {
+    "id": "containers",
+    "name": "Containers",
+    "label": "Containers",
+    "multi": true,
+    "fields": [
+      {
+        "component": "container",
+        "name": "container",
+        "fields": [
+          {
+            "component": "text",
+            "name": "morelinksTitle",
+            "label": "Titre du lien",
+            "valueType": "string"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "image",
     "fields": [
       {

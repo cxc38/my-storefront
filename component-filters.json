@@ -406,11 +406,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "containers",
-    "components": [
-      "container"
-    ]
   }
 ]
