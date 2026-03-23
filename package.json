@@ -16,7 +16,9 @@
     "build:json:models": "merge-json-cli -i \"models/_component-models.json\" -o \"component-models.json\"",
     "build:json:definitions": "merge-json-cli -i \"models/_component-definition.json\" -o \"component-definition.json\"",
     "build:json:filters": "merge-json-cli -i \"models/_component-filters.json\" -o \"component-filters.json\"",
-    "prepare": "husky"
+    "prepare": "husky",
+    "import": "aem-import-helper import",
+    "aem-upload": "aem-import-helper aem upload"
   },
   "repository": {
     "type": "git",
@@ -30,6 +32,7 @@
   "homepage": "https://github.com/hlxsites/aem-boilerplate-commerce#readme",
   "devDependencies": {
     "@adobe/aem-cli": "^16.5.8",
+    "@adobe/aem-import-helper": "^1.5.1",
     "@babel/eslint-parser": "7.27.0",
     "@dropins/build-tools": "1.0.1",
     "eslint": "8.57.1",
