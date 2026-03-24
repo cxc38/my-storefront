@@ -867,11 +867,12 @@
         "name": "container",
         "multi": true,
         "fields": [
+
           {
-            "component": "text-input",
-            "label": "Simple Text 1",
-            "name": "text",
-            "valueType": "string"
+            "component": "reference",
+            "name": "theImage1",
+            "label": "theImage-1",
+            "multi": false
           }
         ]
       },
