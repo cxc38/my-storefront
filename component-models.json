@@ -862,8 +862,8 @@
         "valueType": "string"
       },
       {
-        "component": "cards",
-        "label": "C ard Container",
+        "component": "conditionally-revealed-component",
+        "label": "Card Container",
         "name": "cardContainer",
         "multi": false
       },
