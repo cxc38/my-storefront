@@ -865,7 +865,7 @@
         "component": "image",
         "label": "Image Listr",
         "name": "image",
-        "multi": false
+        "multi": true
       },
       {
         "component": "text",
