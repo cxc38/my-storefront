@@ -24,7 +24,8 @@
       "fragment",
       "product-teaser",
       "product-recommendations",
-      "conditionally-revealed-component"
+      "conditionally-revealed-component",
+      "multifield-container-component"
     ]
   },
   {
