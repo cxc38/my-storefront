@@ -862,9 +862,9 @@
         "valueType": "string"
       },
       {
-        "component": "conditionally-revealed-component",
-        "label": "Card Container",
-        "name": "cardContainer",
+        "component": "image",
+        "label": "Image Listr",
+        "name": "image",
         "multi": false
       },
       {
