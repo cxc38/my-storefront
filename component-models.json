@@ -874,5 +874,22 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "tab",
+    "fields": [
+      {
+        "component": "text",
+        "label": "Top of the Container",
+        "name": "top-text-1",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "label": "Bottom of the Container",
+        "name": "bottom-text-1",
+        "valueType": "string"
+      }
+    ]
   }
 ]
