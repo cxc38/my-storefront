@@ -862,9 +862,9 @@
         "valueType": "string"
       },
       {
-        "component": "card",
-        "label": "Card",
-        "name": "card",
+        "component": "cards",
+        "label": "C ard Container",
+        "name": "cardContainer",
         "multi": true
       },
       {
