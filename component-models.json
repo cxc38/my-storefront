@@ -865,7 +865,7 @@
         "component": "container",
         "label": "Container",
         "name": "container",
-        "multi": true,
+        "multi": false,
         "fields": [
           {
             "component": "text-input",
