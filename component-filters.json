@@ -23,6 +23,7 @@
       "columns",
       "fragment",
       "product-teaser",
+      "tab",
       "product-recommendations",
       "conditionally-revealed-component",
       "multifield-container-component"
