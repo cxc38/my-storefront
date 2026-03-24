@@ -865,7 +865,7 @@
         "component": "cards",
         "label": "C ard Container",
         "name": "cardContainer",
-        "multi": true
+        "multi": false
       },
       {
         "component": "text",
