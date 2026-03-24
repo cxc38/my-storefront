@@ -862,9 +862,9 @@
         "valueType": "string"
       },
       {
-        "component": "image",
-        "label": "Image Listr",
-        "name": "image",
+        "component": "aem-content",
+        "label": "Links",
+        "name": "links",
         "multi": true
       },
       {
